@@ -108,7 +108,7 @@ ketann@healf:~$ cat data_pipeline.sh
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketann-healf&hide_border=true&area=true&bg_color=0d1117&color=9BA9E6&line=2A745D&point=9BA9E6&area_color=2A745D" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketann-ingaale&hide_border=true&area=true&bg_color=0d1117&color=9BA9E6&line=2A745D&point=9BA9E6&area_color=2A745D" width="98%" />
 
 <br>
 
@@ -116,13 +116,13 @@ ketann@healf:~$ cat data_pipeline.sh
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketann-healf&theme=2077" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketann-ingaale&theme=2077" width="98%" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketann-healf&theme=2077" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ketann-healf&theme=2077&utcOffset=0" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketann-healf&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketann-ingaale&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ketann-ingaale&theme=2077&utcOffset=0" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketann-ingaale&theme=2077" width="32%" />
 
 </div>
 
@@ -135,9 +135,9 @@ ketann@healf:~$ cat data_pipeline.sh
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketann-healf/ketann-healf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketann-healf/ketann-healf/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ketann-healf/ketann-healf/output/github-snake-dark.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketann-ingaale/ketann-ingaale/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketann-ingaale/ketann-ingaale/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ketann-ingaale/ketann-ingaale/output/github-snake-dark.svg" width="98%" />
 </picture>
 
 </div>
@@ -172,7 +172,7 @@ ketann@healf:~$ cat data_pipeline.sh
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ketann-healf&color=2A745D&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ketann-ingaale&color=2A745D&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
