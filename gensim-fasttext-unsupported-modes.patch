@@ -1,0 +1,147 @@
+diff --git a/gensim/models/_fasttext_bin.py b/gensim/models/_fasttext_bin.py
+index 80eedfa..7287f30 100644
+--- a/gensim/models/_fasttext_bin.py
++++ b/gensim/models/_fasttext_bin.py
+@@ -61,6 +61,35 @@ logger = logging.getLogger(__name__)
+ _FASTTEXT_VERSION = np.int32(12)
+ _FASTTEXT_FILEFORMAT_MAGIC = np.int32(793712314)
+ 
++# FastText model type constants (from fastText args.h)
++# https://github.com/facebookresearch/fastText/blob/master/src/args.h
++_MODEL_CBOW = 1
++_MODEL_SKIPGRAM = 2
++_MODEL_SUPERVISED = 3
++
++_SUPPORTED_MODEL_TYPES = {_MODEL_CBOW, _MODEL_SKIPGRAM}
++
++_MODEL_TYPE_NAMES = {
++    _MODEL_CBOW: 'cbow',
++    _MODEL_SKIPGRAM: 'skipgram',
++    _MODEL_SUPERVISED: 'supervised',
++}
++
++# FastText loss function constants (from fastText args.h)
++_LOSS_HS = 1       # hierarchical softmax
++_LOSS_NS = 2       # negative sampling
++_LOSS_SOFTMAX = 3  # softmax (supervised)
++_LOSS_OVA = 4      # one-vs-all (supervised)
++
++_SUPPORTED_LOSS_TYPES = {_LOSS_HS, _LOSS_NS}
++
++_LOSS_TYPE_NAMES = {
++    _LOSS_HS: 'hs (hierarchical softmax)',
++    _LOSS_NS: 'ns (negative sampling)',
++    _LOSS_SOFTMAX: 'softmax',
++    _LOSS_OVA: 'ova (one-vs-all)',
++}
++
+ 
+ # _NEW_HEADER_FORMAT is constructed on the basis of args::save method, see
+ # https://github.com/facebookresearch/fastText/blob/master/src/args.cc
+@@ -311,6 +340,57 @@ def _fromfile(fin, dtype, count):
+     return np.fromiter(_batched_generator(fin, count), dtype=dtype)
+ 
+ 
++def _check_supported_model(header):
++    """Raise NotImplementedError for FastText model types or loss functions not supported by gensim.
++
++    Gensim supports loading unsupervised FastText models trained with either hierarchical softmax
++    (hs) or negative sampling (ns) loss.  Supervised models and models trained with softmax or
++    one-vs-all (ova) loss are not supported.
++
++    Parameters
++    ----------
++    header : dict
++        The parsed header dict from a FastText binary, containing at least the ``model`` and
++        ``loss`` integer fields as written by fastText's ``Args::save``.
++
++    Raises
++    ------
++    NotImplementedError
++        If ``header['model']`` or ``header['loss']`` identify an unsupported configuration.
++
++    Examples
++    --------
++    >>> _check_supported_model({'model': 1, 'loss': 2})  # cbow + ns — OK, no exception
++    >>> _check_supported_model({'model': 3, 'loss': 2})  # supervised model
++    Traceback (most recent call last):
++        ...
++    NotImplementedError: ...
++    """
++    model_type = header.get('model')
++    loss_type = header.get('loss')
++
++    if model_type not in _SUPPORTED_MODEL_TYPES:
++        model_name = _MODEL_TYPE_NAMES.get(model_type, 'unknown (model=%d)' % model_type)
++        supported = sorted(_MODEL_TYPE_NAMES[k] for k in _SUPPORTED_MODEL_TYPES)
++        raise NotImplementedError(
++            "FastText model type '%s' (model=%d) is not supported by gensim. "
++            "Only unsupervised models (%s) can be loaded. "
++            "See https://github.com/piskvorky/gensim/issues/3179"
++            % (model_name, model_type, ', '.join(supported))
++        )
++
++    if loss_type not in _SUPPORTED_LOSS_TYPES:
++        loss_name = _LOSS_TYPE_NAMES.get(loss_type, 'unknown (loss=%d)' % loss_type)
++        supported = sorted(_LOSS_TYPE_NAMES[k] for k in _SUPPORTED_LOSS_TYPES)
++        raise NotImplementedError(
++            "FastText model uses loss function '%s' (loss=%d), which is not supported by gensim. "
++            "Supported loss functions are: %s. "
++            "Models trained with 'softmax' or 'ova' loss are typically supervised models. "
++            "See https://github.com/piskvorky/gensim/issues/3179"
++            % (loss_name, loss_type, ', '.join(supported))
++        )
++
++
+ def load(fin, encoding='utf-8', full_model=True):
+     """Load a model from a binary stream.
+ 
+@@ -342,6 +422,8 @@ def load(fin, encoding='utf-8', full_model=True):
+     if not new_format:
+         model.update(dim=magic, ws=version)
+ 
++    _check_supported_model(model)
++
+     raw_vocab, vocab_size, nwords, ntokens = _load_vocab(fin, new_format, encoding=encoding)
+     model.update(raw_vocab=raw_vocab, vocab_size=vocab_size, nwords=nwords, ntokens=ntokens)
+ 
+diff --git a/gensim/test/test_fasttext.py b/gensim/test/test_fasttext.py
+index 8bf62d3..e6d85d4 100644
+--- a/gensim/test/test_fasttext.py
++++ b/gensim/test/test_fasttext.py
+@@ -307,6 +307,35 @@ class TestFastTextModel(unittest.TestCase):
+         with self.assertRaises(NotImplementedError):
+             gensim.models.fasttext.load_facebook_model(datapath('pang_lee_polarity_fasttext.bin'))
+ 
++    def test_check_supported_model_raises_for_supervised(self):
++        """_check_supported_model raises NotImplementedError for supervised model type (model=3)."""
++        from gensim.models._fasttext_bin import _check_supported_model
++        with self.assertRaises(NotImplementedError) as ctx:
++            _check_supported_model({'model': 3, 'loss': 2})
++        self.assertIn('supervised', str(ctx.exception))
++
++    def test_check_supported_model_raises_for_softmax_loss(self):
++        """_check_supported_model raises NotImplementedError for softmax loss (loss=3)."""
++        from gensim.models._fasttext_bin import _check_supported_model
++        with self.assertRaises(NotImplementedError) as ctx:
++            _check_supported_model({'model': 1, 'loss': 3})
++        self.assertIn('softmax', str(ctx.exception))
++
++    def test_check_supported_model_raises_for_ova_loss(self):
++        """_check_supported_model raises NotImplementedError for ova loss (loss=4)."""
++        from gensim.models._fasttext_bin import _check_supported_model
++        with self.assertRaises(NotImplementedError) as ctx:
++            _check_supported_model({'model': 1, 'loss': 4})
++        self.assertIn('ova', str(ctx.exception))
++
++    def test_check_supported_model_passes_for_valid_configs(self):
++        """_check_supported_model does not raise for supported model/loss combinations."""
++        from gensim.models._fasttext_bin import _check_supported_model
++        _check_supported_model({'model': 1, 'loss': 1})  # cbow + hs
++        _check_supported_model({'model': 1, 'loss': 2})  # cbow + ns
++        _check_supported_model({'model': 2, 'loss': 1})  # skipgram + hs
++        _check_supported_model({'model': 2, 'loss': 2})  # skipgram + ns
++
+     def test_load_model_with_non_ascii_vocab(self):
+         model = gensim.models.fasttext.load_facebook_model(datapath('non_ascii_fasttext.bin'))
+         self.assertTrue(u'který' in model.wv)

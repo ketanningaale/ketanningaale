@@ -130,6 +130,28 @@ ketann@healf:~$ cat data_pipeline.sh
 
 <div align="center">
 
+### `$ open_source --list`
+
+<br>
+
+</div>
+
+```console
+ketann@healf:~$ cat open_source_contributions.log
+```
+
+```
+[2026-04-02] 🧠 piskvorky/gensim — Added early validation for unsupported FastText model types
+             Issue #3179: models trained with softmax/ova loss or supervised mode now raise
+             a clear NotImplementedError instead of failing with a cryptic binary parse error.
+             Files: gensim/models/_fasttext_bin.py · gensim/test/test_fasttext.py
+             Patch: gensim-fasttext-unsupported-modes.patch
+```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### `$ contributions --visualize`
 
 <br>
