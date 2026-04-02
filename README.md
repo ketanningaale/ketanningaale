@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A745D,50:9BA9E6,100:000000&height=220&section=header&text=KETANN%20INGAALE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20%40%20Healf%20%E2%80%A2%20Wellbeing%20Made%20Personal&descSize=16&descColor=ffffff&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A745D,50:9BA9E6,100:000000&height=220&section=header&text=KETANN%20INGAALE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&fontFamily=Pacifico&desc=Data%20Engineer%20%40%20Healf%20%E2%80%A2%20Wellbeing%20Made%20Personal&descSize=16&descColor=ffffff&descAlignY=56" />
 
 <div align="center">
 
@@ -176,7 +176,7 @@ ketann@healf:~$ cat data_pipeline.sh
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A745D,100:9BA9E6&height=80&text=WELLBEING%20MADE%20PERSONAL&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=WELLBEING%20MADE%20PERSONAL&fontSize=30&fontColor=2A745D&fontAlignY=50&animation=twinkling" width="80%" />
 
 <br>
 
