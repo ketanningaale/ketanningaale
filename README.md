@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A745D,50:9BA9E6,100:000000&height=200&section=header&text=KETANN%20INGAALE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Pacifico&desc=AI%20Researcher%20%E2%80%A2%20MSc%20Data%20Science%20%E2%80%A2%20Analytics%20Engineer%20%40%20Healf&descSize=15&descColor=ffffff&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A12,50:FF85A1,100:FF3385&height=200&section=header&text=KETANN%20INGAALE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Pacifico&desc=AI%20Researcher%20%E2%80%A2%20MSc%20Data%20Science%20%E2%80%A2%20Analytics%20Engineer%20%40%20Healf&descSize=15&descColor=ffffff&descAlignY=58" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=9BA9E6&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+that+improve+human+health;MSc+Data+Science+%C2%B7+University+of+Southampton+(77%2F100);Springer+Published+(2021)+%C2%B7+Patent+Holder+(2019);Presidential+Scholar+%C2%B7+AI+Researcher+%C2%B7+London%2C+UK+%F0%9F%87%AC%F0%9F%87%A7" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=FF85A1&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+that+improve+human+health;MSc+Data+Science+%C2%B7+University+of+Southampton+(77%2F100);Springer+Published+(2021)+%C2%B7+Patent+Holder+(2019);Presidential+Scholar+%C2%B7+AI+Researcher+%C2%B7+London%2C+UK+%F0%9F%87%AC%F0%9F%87%A7" />
 
 <br>
 
-![Location](https://img.shields.io/badge/London%2C%20United%20Kingdom-2A745D?style=flat-square&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to%20Research%20Collaborations-9BA9E6?style=flat-square&logo=handshake&logoColor=white)
-![Focus](https://img.shields.io/badge/HealthTech%20%26%20AI-2A745D?style=flat-square&logo=stethoscope&logoColor=white)
+![Location](https://img.shields.io/badge/London%2C%20United%20Kingdom-FF85A1?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to%20Research%20Collaborations-1A0A12?style=flat-square&logo=handshake&logoColor=FF85A1)
+![Focus](https://img.shields.io/badge/HealthTech%20%26%20AI-FF3385?style=flat-square&logo=stethoscope&logoColor=white)
 
 </div>
 
@@ -187,39 +187,39 @@ Apache Spark DAG framework with Decision Tree, Random Forest & MLP classifiers f
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-2A745D?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-9BA9E6?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2A745D?style=for-the-badge&logo=postgresql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-9BA9E6?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2A745D?style=for-the-badge&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-9BA9E6?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF85A1?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-1A0A12?style=for-the-badge&logo=r&logoColor=FF85A1)
+![SQL](https://img.shields.io/badge/SQL-FF85A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-1A0A12?style=for-the-badge&logo=solidity&logoColor=FF85A1)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF85A1?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1A0A12?style=for-the-badge&logo=gnubash&logoColor=FF85A1)
 
 **ML & AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-2A745D?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-9BA9E6?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2A745D?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-9BA9E6?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2A745D?style=for-the-badge&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-9BA9E6?style=for-the-badge&logo=mlflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF85A1?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A0A12?style=for-the-badge&logo=tensorflow&logoColor=FF85A1)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF85A1?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A0A12?style=for-the-badge&logo=scikitlearn&logoColor=FF85A1)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF85A1?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-1A0A12?style=for-the-badge&logo=mlflow&logoColor=FF85A1)
 
 **Data Engineering**
 
-![dbt](https://img.shields.io/badge/dbt-2A745D?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-9BA9E6?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-2A745D?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-9BA9E6?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A745D?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-9BA9E6?style=for-the-badge&logo=posthog&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF85A1?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-1A0A12?style=for-the-badge&logo=snowflake&logoColor=FF85A1)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF85A1?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1A0A12?style=for-the-badge&logo=databricks&logoColor=FF85A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF85A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1A0A12?style=for-the-badge&logo=posthog&logoColor=FF85A1)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-2A745D?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-9BA9E6?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-2A745D?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-9BA9E6?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-2A745D?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9BA9E6?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-FF85A1?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1A0A12?style=for-the-badge&logo=amazonaws&logoColor=FF85A1)
+![GCP](https://img.shields.io/badge/GCP-FF85A1?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A0A12?style=for-the-badge&logo=docker&logoColor=FF85A1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF85A1?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1A0A12?style=for-the-badge&logo=git&logoColor=FF85A1)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -227,12 +227,12 @@ Apache Spark DAG framework with Decision Tree, Random Forest & MLP classifiers f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=dark&bg_color=0d1117&title_color=9BA9E6&icon_color=2A745D&text_color=ffffff&border_color=2A745D&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=dark&background=0d1117&ring=2A745D&fire=9BA9E6&currStreakLabel=9BA9E6&border=2A745D" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=dark&bg_color=1A0A12&title_color=FF85A1&icon_color=FF3385&text_color=FFB6C1&border_color=FF85A1&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=dark&background=1A0A12&ring=FF85A1&fire=FF3385&currStreakLabel=FF85A1&border=FF85A1&sideLabels=FFB6C1&dates=FFB6C1&currStreakNum=ffffff&sideNums=FF85A1" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=0d1117&color=9BA9E6&line=2A745D&point=9BA9E6&area_color=2A745D" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=1A0A12&color=FFB6C1&line=FF85A1&point=FF3385&area_color=FF3385" width="98%" />
 
 </div>
 
@@ -252,22 +252,22 @@ Apache Spark DAG framework with Decision Tree, Random Forest & MLP classifiers f
 
 <br>
 
-[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-2A745D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann.ingaale@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9BA9E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketann-ingaale)
-[![Healf](https://img.shields.io/badge/healf.com-000000?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
+[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-FF85A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann.ingaale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A0A12?style=for-the-badge&logo=linkedin&logoColor=FF85A1)](https://www.linkedin.com/in/ketann-ingaale)
+[![Healf](https://img.shields.io/badge/healf.com-FF3385?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=2A745D&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=FF85A1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=WELLBEING%20MADE%20PERSONAL&fontSize=30&fontColor=2A745D&fontAlignY=50&animation=twinkling" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=WELLBEING%20MADE%20PERSONAL&fontSize=30&fontColor=FF85A1&fontAlignY=50&animation=twinkling" width="80%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3000&pause=1500&color=9BA9E6&center=true&vCenter=true&width=500&lines=EAT+%E2%80%A2+MOVE+%E2%80%A2+MIND+%E2%80%A2+SLEEP;data+%E2%80%A2+research+%E2%80%A2+purpose;built+with+data%2C+powered+by+science" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3000&pause=1500&color=FFB6C1&center=true&vCenter=true&width=500&lines=EAT+%E2%80%A2+MOVE+%E2%80%A2+MIND+%E2%80%A2+SLEEP;data+%E2%80%A2+research+%E2%80%A2+purpose;built+with+data%2C+powered+by+science" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:9BA9E6,100:2A745D&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3385,50:FF85A1,100:1A0A12&height=120&section=footer" />
