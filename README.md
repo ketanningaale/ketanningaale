@@ -230,7 +230,7 @@ Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tr
 <img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=dark&bg_color=070707&title_color=e8ddd0&icon_color=e8ddd0&text_color=ffffff&border_color=1a1a1a" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=dark&background=070707&ring=e8ddd0&fire=ffffff&currStreakLabel=e8ddd0&border=1a1a1a&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=e8ddd0" width="48%" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=070707&color=e8ddd0&line=e8ddd0&point=ffffff&area_color=e8ddd0" width="98%" />
 
