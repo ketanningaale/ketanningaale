@@ -1,14 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=070707&height=180&text=Ketann%20Ingaale&fontSize=48&fontColor=e8ddd0&fontFamily=DM+Sans&fontAlignY=42&desc=AI%20Researcher%20%E2%80%A2%20MSc%20Data%20Science%20%E2%80%A2%20Analytics%20Engineer%20%40%20Healf&descSize=15&descColor=ffffff&descAlignY=64" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=4000&pause=1500&color=e8ddd0&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+that+improve+human+health;MSc+Data+Science+%C2%B7+University+of+Southampton+%C2%B7+77%2F100;Springer+Published+(2021)+%C2%B7+Patent+Holder+(2019)+%C2%B7+Presidential+Scholar;AI+Researcher+%C2%B7+Analytics+Engineer+%C2%B7+London+%F0%9F%87%AC%F0%9F%87%A7" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Ketann%20Ingaale&fontSize=72&fontColor=6b4c2a&fontFamily=Dancing+Script&animation=twinkling&fontAlignY=65" width="700" />
+
+<img src="./assets/peacock-feather.svg" width="110" alt="peacock feather" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=680&lines=AI+Researcher+%C2%B7+Analytics+Engineer+%C2%B7+Healf%2C+London;MSc+Data+Science+%C2%B7+University+of+Southampton+%C2%B7+77%2F100;Springer+Published+(2021)+%C2%B7+Patent+(2019)+%C2%B7+Presidential+Scholar" />
 
 <br>
 
-![Location](https://img.shields.io/badge/London%2C%20United%20Kingdom-e8ddd0?style=flat-square&logoColor=070707)
-![Status](https://img.shields.io/badge/Open%20to%20Collaborations-1a1a1a?style=flat-square&logoColor=e8ddd0)
-![Focus](https://img.shields.io/badge/HealthTech%20%26%20AI-e8ddd0?style=flat-square&logoColor=070707)
+![Location](https://img.shields.io/badge/London%2C%20UK-555?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to%20Collaborations-555?style=flat-square&logoColor=white)
+![Focus](https://img.shields.io/badge/HealthTech%20%26%20AI-555?style=flat-square&logoColor=white)
 
 </div>
 
@@ -187,39 +191,39 @@ Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tr
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-e8ddd0?style=for-the-badge&logo=python&logoColor=070707)
-![R](https://img.shields.io/badge/R-1a1a1a?style=for-the-badge&logo=r&logoColor=e8ddd0)
-![SQL](https://img.shields.io/badge/SQL-e8ddd0?style=for-the-badge&logo=postgresql&logoColor=070707)
-![Solidity](https://img.shields.io/badge/Solidity-1a1a1a?style=for-the-badge&logo=solidity&logoColor=e8ddd0)
-![JavaScript](https://img.shields.io/badge/JavaScript-e8ddd0?style=for-the-badge&logo=javascript&logoColor=070707)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=e8ddd0)
+![Python](https://img.shields.io/badge/Python-3a3a3a?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-555555?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3a3a3a?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-555555?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3a3a3a?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **ML & AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-e8ddd0?style=for-the-badge&logo=pytorch&logoColor=070707)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=e8ddd0)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-e8ddd0?style=for-the-badge&logo=huggingface&logoColor=070707)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=e8ddd0)
-![OpenCV](https://img.shields.io/badge/OpenCV-e8ddd0?style=for-the-badge&logo=opencv&logoColor=070707)
-![MLflow](https://img.shields.io/badge/MLflow-1a1a1a?style=for-the-badge&logo=mlflow&logoColor=e8ddd0)
+![PyTorch](https://img.shields.io/badge/PyTorch-3a3a3a?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-3a3a3a?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-3a3a3a?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-555555?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **Data Engineering**
 
-![dbt](https://img.shields.io/badge/dbt-e8ddd0?style=for-the-badge&logo=dbt&logoColor=070707)
-![Snowflake](https://img.shields.io/badge/Snowflake-1a1a1a?style=for-the-badge&logo=snowflake&logoColor=e8ddd0)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-e8ddd0?style=for-the-badge&logo=apachespark&logoColor=070707)
-![Databricks](https://img.shields.io/badge/Databricks-1a1a1a?style=for-the-badge&logo=databricks&logoColor=e8ddd0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e8ddd0?style=for-the-badge&logo=postgresql&logoColor=070707)
-![PostHog](https://img.shields.io/badge/PostHog-1a1a1a?style=for-the-badge&logo=posthog&logoColor=e8ddd0)
+![dbt](https://img.shields.io/badge/dbt-3a3a3a?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-555555?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3a3a3a?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-555555?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a3a3a?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-555555?style=for-the-badge&logo=posthog&logoColor=white)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-e8ddd0?style=for-the-badge&logo=microsoftazure&logoColor=070707)
-![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=e8ddd0)
-![GCP](https://img.shields.io/badge/GCP-e8ddd0?style=for-the-badge&logo=googlecloud&logoColor=070707)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=e8ddd0)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-e8ddd0?style=for-the-badge&logo=kubernetes&logoColor=070707)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=e8ddd0)
+![Azure](https://img.shields.io/badge/Azure-3a3a3a?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-3a3a3a?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3a3a3a?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -227,12 +231,12 @@ Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=dark&bg_color=070707&title_color=e8ddd0&icon_color=e8ddd0&text_color=ffffff&border_color=1a1a1a" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=dark&background=070707&ring=e8ddd0&fire=ffffff&currStreakLabel=e8ddd0&border=1a1a1a&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=e8ddd0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=transparent&title_color=6b4c2a&icon_color=888888&text_color=888888&border_color=dddddd" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=transparent&ring=6b4c2a&fire=888888&currStreakLabel=6b4c2a&border=dddddd&sideLabels=888888&dates=aaaaaa&currStreakNum=6b4c2a&sideNums=888888" width="48%" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=070707&color=e8ddd0&line=e8ddd0&point=ffffff&area_color=e8ddd0" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=00000000&color=888888&line=6b4c2a&point=6b4c2a&area_color=6b4c2a" width="98%" />
 
 <br>
 
@@ -256,19 +260,17 @@ Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tr
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-e8ddd0?style=for-the-badge&logo=gmail&logoColor=070707)](mailto:ketann.ingaale@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e8ddd0)](https://www.linkedin.com/in/ketann-ingaale)
-[![Healf](https://img.shields.io/badge/healf.com-e8ddd0?style=for-the-badge&logo=shopify&logoColor=070707)](https://www.healf.com/)
-[![Portfolio](https://img.shields.io/badge/ketanningaale.github.io-1a1a1a?style=for-the-badge&logo=github&logoColor=e8ddd0)](https://ketanningaale.github.io)
+[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann.ingaale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketann-ingaale)
+[![Portfolio](https://img.shields.io/badge/ketanningaale.github.io-3a3a3a?style=for-the-badge&logo=github&logoColor=white)](https://ketanningaale.github.io)
+[![Healf](https://img.shields.io/badge/healf.com-555555?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=e8ddd0&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=6b4c2a&style=flat-square&label=profile+views)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=11&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=wellbeing+made+personal;data+%C2%B7+research+%C2%B7+purpose" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=wellbeing%20made%20personal&fontSize=16&fontColor=aaaaaa&fontFamily=Dancing+Script&fontAlignY=60" width="400" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=070707&height=60&section=footer" />
