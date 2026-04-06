@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Ketann%20Ingaale&fontSize=72&fontColor=6b4c2a&fontFamily=Dancing+Script&animation=twinkling&fontAlignY=65" width="700" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Ketann%20Ingaale&fontSize=72&fontColor=6b4c2a&fontFamily=Great+Vibes&fontAlignY=65" width="700" />
 
-<img src="./assets/peacock-feather.svg" width="110" alt="peacock feather" />
+<img src="./assets/peacock-feather.svg" width="440" alt="peacock feather" />
 
 <br><br>
 
