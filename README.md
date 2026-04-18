@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Ketann%20Ingaale&fontSize=72&fontColor=6b4c2a&fontFamily=Great+Vibes&fontAlignY=65" width="700" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=680&lines=AI+Researcher+%C2%B7+Analytics+Engineer+%C2%B7+Healf%2C+London;MSc+Data+Science+%C2%B7+University+of+Southampton+%C2%B7+77%2F100;Springer+Published+(2021)+%C2%B7+Patent+(2019)+%C2%B7+Presidential+Scholar" />
 
