@@ -1,16 +1,20 @@
 <div align="center">
+<samp>|| &nbsp; Shree &nbsp; ||</samp>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Ketann%20Ingaale&fontSize=72&fontColor=6b4c2a&fontFamily=Great+Vibes&fontAlignY=65" width="700" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=240&text=Ketann%20Ingaale&fontSize=62&fontColor=ffffff&fontFamily=Great+Vibes&fontAlignY=42&animation=fadeIn&desc=Machine%20Learning%20%C2%B7%20Astronomy%20%C2%B7%20Biotechnology%20%C2%B7%20Wellness&descSize=13&descColor=8b949e&descAlignY=62" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=3500&pause=1200&color=c9d1d9&center=true&vCenter=true&width=720&lines=Researching+intelligent+systems+at+the+edge+of+human+knowledge;Neural+Networks+%C2%B7+Deep+Learning+%C2%B7+Probabilistic+Models;Gravitational+Waves+%C2%B7+LiDAR+Sensor+Fusion+%C2%B7+Space+Data;Biomarker+Research+%C2%B7+Evidence-Based+AI+%C2%B7+Clinical+Analytics;Analytics+Engineer+%40+Healf+%C2%B7+Wellness+Made+Personal" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=680&lines=AI+Researcher+%C2%B7+Analytics+Engineer+%C2%B7+Healf%2C+London;MSc+Data+Science+%C2%B7+University+of+Southampton+%C2%B7+77%2F100;Springer+Published+(2021)+%C2%B7+Patent+(2019)+%C2%B7+Presidential+Scholar" />
-
-<br>
-
-![Location](https://img.shields.io/badge/London%2C%20UK-555?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to%20Collaborations-555?style=flat-square&logoColor=white)
-![Focus](https://img.shields.io/badge/HealthTech%20%26%20AI-555?style=flat-square&logoColor=white)
+![ML/AI](https://img.shields.io/badge/Machine%20Learning-21262d?style=flat-square&logoColor=white)
+![Astronomy](https://img.shields.io/badge/Astronomy-21262d?style=flat-square&logoColor=white)
+![Biotech](https://img.shields.io/badge/Biotechnology-21262d?style=flat-square&logoColor=white)
+![Wellness](https://img.shields.io/badge/Wellness%20Tech-21262d?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/London%2C%20UK-30363d?style=flat-square&logoColor=white)
 
 </div>
 
@@ -18,37 +22,33 @@
 
 ---
 
-## About
+## `01` · About
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-Multi-disciplinary researcher and engineer at the intersection of data science, machine learning, and health technology. I build systems that turn complex health data into meaningful, personalised insights — and I'm deeply interested in the theoretical foundations that make intelligent systems trustworthy and generalisable.
+Multi-disciplinary researcher at the intersection of machine learning, astronomical data science, and health technology. My work spans across scales — from gravitational wave signal classification to biomarker-driven wellness personalisation — unified by a belief that rigorous mathematics and intelligent systems can improve human understanding of the universe and of ourselves.
 
-My background spans **Computer Engineering**, **Finance**, and **Data Science**, giving me a systems-level view that informs how I approach problems — from autonomous vehicle localisation to wellness personalisation engines.
+Background across **Computer Engineering**, **Finance**, and **Data Science** gives me a systems-level perspective that I apply to problems in autonomous navigation, astrophysical event detection, and evidence-based health AI.
 
-**Research interests**
-- Health AI & biomarker-driven personalisation
-- Autonomous systems & sensor fusion (LiDAR)
-- Probabilistic modelling & chaos theory
-- Blockchain & distributed data integrity
+**Current focus** — building scalable ML infrastructure at Healf, London, while conducting applied research in wellness personalisation and biomarker outcome prediction.
 
 </td>
 <td width="42%" valign="top">
 
 ```
 name         Ketann Ingaale
-role         Analytics Engineer & ML Researcher
 at           Healf, London 🇬🇧
-msc          Data Science, Southampton
-dissertation LiDAR AV Localisation
-score        77 / 100
-award        Presidential Intl. Scholarship
-published    Springer (2021)
-patent       Grievance Redressal (2019)
-languages    Python · SQL · R · Solidity
-focus        HealthTech · Wellness AI
+role         Analytics Engineer & ML Researcher
+msc          Data Science · Southampton · 77/100
+award        Presidential International Scholarship
+published    Springer (2021) · Advances in ICS
+patent       Grievance Redressal System (2019)
+domains      ML/AI · Astronomy · Biotech · Wellness
+languages    Python · SQL · R · Solidity · Bash
+tools        dbt · Snowflake · PyTorch · TensorFlow
+contact      ketann.ingaale@gmail.com
 ```
 
 </td>
@@ -57,26 +57,93 @@ focus        HealthTech · Wellness AI
 
 ---
 
-## Currently Building
+## `02` · Research Domains
 
-At **Healf** — designing data and ML infrastructure that powers evidence-backed wellness recommendations:
+<table>
+<tr>
+<td valign="top" width="25%">
 
-- **Evidence Graph** — scalable ML system connecting products to mechanisms, biomarker outcomes, and research-grade claims
-- **Wellness Personalisation Engine** — algorithms integrating biomarker, behavioural, and preference data with quantifiable confidence scores
-- **Healf Outcomes Program** — real-world cohort studies measuring pre/post biomarker shifts to establish the "Healf Recommended" standard
+**Machine Learning & AI**
+
+Neural Networks · Deep Learning  
+Computer Vision · NLP  
+Probabilistic Modelling  
+Bayesian Inference  
+Markov Models & HMMs  
+Reinforcement Learning  
+MLOps · Experiment Tracking  
+Model Interpretability (SHAP, LIME)
+
+</td>
+<td valign="top" width="25%">
+
+**Astronomy & Astrophysics**
+
+Gravitational Wave Analysis  
+Signal Classification (H1/L1)  
+LiDAR Sensor Fusion  
+Autonomous Navigation  
+Distributed Astrophysical Computing  
+Apache Spark DAG Pipelines  
+Space Systems & GPS-Free Nav  
+Cosmological Data Processing
+
+</td>
+<td valign="top" width="25%">
+
+**Biotechnology**
+
+Biomarker Analysis & Tracking  
+Evidence Graph Construction  
+Clinical Analytics  
+Cohort Study Design  
+Outcomes Research  
+Health Data Infrastructure  
+Evidence-Based AI Standards  
+Lab & Research Informatics
+
+</td>
+<td valign="top" width="25%">
+
+**Wellness Technology**
+
+Personalisation Engines  
+Adaptive Recommendations  
+Biomarker-Preference Fusion  
+Real-World Cohort Studies  
+Behavioural Analytics  
+Health Data Pipelines  
+Wellbeing Outcome Modelling  
+Confidence-Scored Inference
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` · Currently Building
+
+At **Healf** — designing data and ML infrastructure for evidence-backed wellness:
+
+- **Evidence Graph** — ML system connecting products to mechanisms, biomarker outcomes, and research-grade claims; the backbone of the *Healf Recommended* standard
+- **Wellness Personalisation Engine** — adaptive recommendation algorithms fusing biomarker, behavioural, and preference signals with quantifiable confidence scores
+- **Healf Outcomes Program** — real-world cohort studies tracking pre/post biomarker shifts across Healf Zone users
 - **Analytics Pipelines** — unified health, commerce, and marketing data models across Snowflake + dbt
 
 ---
 
-## Education
+## `04` · Education & Experience
+
+**Education**
 
 | Degree | Institution | Period | Highlights |
 |:--|:--|:--|:--|
 | **MSc Data Science** | University of Southampton, England | 2023 – 2024 | Dissertation: 77/100 · Presidential International Scholarship |
-| **MBA — Finance** | Savitribai Phule Pune University, India | 2020 – 2022 | Business Analytics · Quantitative Techniques · MIS |
+| **MBA — Finance** | Savitribai Phule Pune University, India | 2020 – 2022 | Business Analytics · Quantitative Techniques |
 | **B.E. Computer Engineering** | Savitribai Phule Pune University, India | 2016 – 2020 | ML · AI · Cloud Computing · HPC |
 
-## Experience
+**Experience**
 
 | Role | Company | Period | Location |
 |:--|:--|:--|:--|
@@ -87,7 +154,7 @@ At **Healf** — designing data and ML infrastructure that powers evidence-backe
 
 ---
 
-## Research & Publications
+## `05` · Research & Publications
 
 <table>
 <tr>
@@ -96,10 +163,10 @@ At **Healf** — designing data and ML infrastructure that powers evidence-backe
 **MSc Dissertation**
 *Localisation of Autonomous Vehicles using LiDAR Sensor*
 
-University of Southampton · **77/100**
-Dr. Daniel Clark & Dr. Luis-Daniel Ibáñez
+University of Southampton · **77 / 100**
+Supervisors: Dr. Daniel Clark & Dr. Luis-Daniel Ibáñez
 
-Novel mathematical model with derivative analysis reducing localisation errors by **95%** over K-Means, ICP, and Convex Hull on KITTI-CARLA.
+Novel mathematical model with derivative analysis and dynamic parameter adjustment. Reduces localisation error by **95%** vs K-Means, ICP, and Convex Hull baselines on KITTI-CARLA. Advances GPS-free navigation in autonomous systems.
 
 </td>
 <td width="33%" valign="top">
@@ -108,10 +175,10 @@ Novel mathematical model with derivative analysis reducing localisation errors b
 *Blockchain-Based Grievance Management System*
 
 Advances in Intelligent Systems and Computing
-DOI: `10.1007/978-981-15-5788-0_20`
-Oral presentation · FICTA 2020 · NIT Surathkal
+`DOI: 10.1007/978-981-15-5788-0_20`
+Oral presentation · FICTA 2020 · NIT Surathkal, India
 
-Decentralised Hyperledger Fabric solution with hierarchical auto-escalation for transparent grievance handling.
+Decentralised Hyperledger Fabric solution with hierarchical auto-escalation. Addresses transparency and data integrity failures in traditional grievance systems.
 
 </td>
 <td width="33%" valign="top">
@@ -119,10 +186,10 @@ Decentralised Hyperledger Fabric solution with hierarchical auto-escalation for 
 **Patent — India (2019)**
 *Grievance Redressal System*
 
-Pub. No. 38/2019 · 20 Sep 2019
+Publication No. 38/2019 · 20 Sep 2019
 Classification: G06Q 10/00, G06Q 50/00
 
-Blockchain-powered, tamper-proof automated platform with multi-level accountability and immutable audit trails.
+Blockchain-powered, tamper-proof automated platform with multi-level accountability. Immutable audit trail ensuring fairness across hierarchical resolution tiers.
 
 </td>
 </tr>
@@ -130,54 +197,39 @@ Blockchain-powered, tamper-proof automated platform with multi-level accountabil
 
 ---
 
-## Projects
+## `06` · Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Machine Learning & AI**
 
-**LiDAR AV Localisation** — *MSc Dissertation*
-95% reduction in localisation error vs standard baselines. GPS-free autonomous navigation on KITTI-CARLA.
-`Python` `LiDAR` `ICP` `KITTI-CARLA`
+| Project | Description | Stack |
+|:--|:--|:--|
+| **LiDAR AV Localisation** *(MSc, 77/100)* | 95% reduction in localisation error vs standard baselines. GPS-free autonomous navigation using novel derivative-analysis model on KITTI-CARLA dataset. | `Python` `LiDAR` `ICP` `NumPy` |
+| **Hidden Markov Models — Stock Prediction** | Probabilistic regime-detection framework identifying bullish, bearish and volatile market states from financial time-series. Outperforms deterministic baselines. | `Python` `HMM` `Scikit-learn` `Pandas` |
+| **Forest Fire Simulation** | Agent-based percolation model with real-time sensitivity analysis across density, wind, tree types and water bodies. Explores chaos theory at critical thresholds. | `Python` `NumPy` `Matplotlib` `Simulation` |
 
----
+**Astronomy & Astrophysics**
 
-**Hidden Markov Models — Stock Prediction**
-Probabilistic framework for bullish, bearish and volatile market regime detection from time-series data.
-`Python` `HMM` `Time-Series` `Scikit-learn`
+| Project | Description | Stack |
+|:--|:--|:--|
+| **Gravitational Wave Analysis** | Lineage tracking of H1/L1 strain data using Apache Spark DAG optimisation. Decision Tree, Random Forest & MLP classifiers for astrophysical event detection and classification. | `Python` `Apache Spark` `MLlib` `DAG` |
 
----
+**Wellbeing & Biotechnology**
 
-**Forest Fire Simulation**
-Agent-based percolation model with real-time sensitivity analysis across density, wind and tree types.
-`Python` `NumPy` `Matplotlib` `Chaos Theory`
+| Project | Description | Stack |
+|:--|:--|:--|
+| **Evidence Graph @ Healf** | Scalable ML infrastructure connecting products to mechanisms, biomarker outcomes and research-grade claims. Foundation of the *Healf Recommended* standard. | `Python` `dbt` `Snowflake` `ML` |
+| **Wellness Personalisation Engine** | Adaptive recommendation system fusing biomarker, behavioural and preference data. Generates confidence-scored, individually tailored wellness interventions. | `Python` `PyTorch` `Snowflake` `dbt` |
 
-</td>
-<td width="50%" valign="top">
+**Distributed Systems**
 
-**Blockchain Grievance Redressal** — *Published + Patented*
-4-tier system, 40% improvement in data security. REST API with Flask + React + PostgreSQL.
-`Solidity` `Hyperledger Fabric` `Flask` `React`
-
----
-
-**UAV Quadcopter with ML**
-Autonomous drone with real-time object detection, +20% tracking accuracy, +30% flight performance.
-`Python` `Raspberry Pi 3` `YOLO` `OpenCV`
+| Project | Description | Stack |
+|:--|:--|:--|
+| **Blockchain Grievance System** *(Published + Patented)* | 4-tier decentralised grievance platform. 40% improvement in transaction security. REST API with auto-escalation and immutable audit trails. | `Solidity` `Hyperledger` `Flask` `React` |
+| **UAV Quadcopter with ML** | Autonomous drone with real-time YOLO object detection, +20% tracking accuracy, +30% flight performance via Raspberry Pi 3 embedded control. | `Python` `YOLO` `OpenCV` `Raspberry Pi` |
 
 ---
 
-**Gravitational Wave Analysis**
-Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tracking.
-`Python` `Apache Spark` `MLlib` `DAG`
-
-</td>
-</tr>
-</table>
-
----
-
-## Stack
+## `07` · Stack
 
 <div align="center">
 
@@ -189,86 +241,91 @@ Spark DAG framework with RF + MLP classifiers for astrophysical event lineage tr
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3a3a3a?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-555555?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3a3a3a?style=for-the-badge&logo=postgresql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-555555?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3a3a3a?style=for-the-badge&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-30363d?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-21262d?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-30363d?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-30363d?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **ML & AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3a3a3a?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-3a3a3a?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-3a3a3a?style=for-the-badge&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-555555?style=for-the-badge&logo=mlflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-30363d?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-21262d?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-30363d?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-30363d?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **Data Engineering**
 
-![dbt](https://img.shields.io/badge/dbt-3a3a3a?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-555555?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3a3a3a?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-555555?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a3a3a?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-555555?style=for-the-badge&logo=posthog&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-21262d?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-30363d?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-21262d?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-30363d?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-30363d?style=for-the-badge&logo=posthog&logoColor=white)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-3a3a3a?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-3a3a3a?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3a3a3a?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-21262d?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-30363d?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-21262d?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-21262d?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363d?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Activity
+## `08` · Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&theme=transparent&title_color=6b4c2a&icon_color=888888&text_color=888888&border_color=dddddd" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&theme=transparent&ring=6b4c2a&fire=888888&currStreakLabel=6b4c2a&border=dddddd&sideLabels=888888&dates=aaaaaa&currStreakNum=6b4c2a&sideNums=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ketanningaale&show_icons=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanningaale&background=0d1117&stroke=30363d&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&border=30363d&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=c9d1d9" width="48%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&hide_border=true&area=true&bg_color=00000000&color=888888&line=6b4c2a&point=6b4c2a&area_color=6b4c2a" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanningaale&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d&hide_border=false" width="38%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanningaale&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=21262d&hide_border=true" width="58%" />
 
-<br>
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketanningaale/ketanningaale/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ketanningaale/ketanningaale/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketanningaale/ketanningaale/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ketanningaale/ketanningaale/output/github-snake-dark.svg" width="98%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ketanningaale/ketanningaale/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-## Testimonial
+## `09` · Testimonial
 
-> *"Ketan demonstrated exceptional dedication and intellectual capacity throughout the MSc programme. His dissertation earned an impressive mark of 77/100, reflecting his deep understanding of the subject matter and ability to engage with complex technical concepts. He was also one of 25 recipients of the Southampton Presidential International Scholarship — a competitive award for academically excellent international students."*
+> *"Ketan demonstrated exceptional dedication and intellectual capacity throughout the MSc programme. His dissertation 'Localisation of Autonomous Vehicles using LiDAR Sensor' earned an impressive mark of 77/100, reflecting his deep understanding of the subject matter and ability to engage with complex technical concepts. He was also one of 25 recipients of the Southampton Presidential International Scholarship — a competitive award for academically excellent international students."*
 >
-> — **Prof. Luis-Daniel Ibáñez**, Programme Lead MSc Data Science · University of Southampton
+> — **Prof. Luis-Daniel Ibáñez**, Programme Lead MSc Data Science · University of Southampton · December 2025
 
 ---
 
+## `10` · Connect
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann.ingaale@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketann-ingaale)
-[![Portfolio](https://img.shields.io/badge/ketanningaale.github.io-3a3a3a?style=for-the-badge&logo=github&logoColor=white)](https://ketanningaale.github.io)
-[![Healf](https://img.shields.io/badge/healf.com-555555?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
+[![Email](https://img.shields.io/badge/ketann.ingaale@gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketann.ingaale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketann-ingaale)
+[![Portfolio](https://img.shields.io/badge/ketanningaale.github.io-21262d?style=for-the-badge&logo=github&logoColor=white)](https://ketanningaale.github.io)
+[![Healf](https://img.shields.io/badge/healf.com-30363d?style=for-the-badge&logo=shopify&logoColor=white)](https://www.healf.com/)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=6b4c2a&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=ketanningaale&color=8b949e&style=flat-square&label=profile+views)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=wellbeing%20made%20personal&fontSize=16&fontColor=aaaaaa&fontFamily=Dancing+Script&fontAlignY=60" width="400" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=300&size=11&duration=4000&pause=2000&color=444c56&center=true&vCenter=true&width=500&lines=from+the+cosmos+to+the+cell+%E2%80%94+data+finds+the+pattern;built+with+curiosity%2C+powered+by+rigour" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" />
