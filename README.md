@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&duration=3500&pause=1200&color=c9d1d9&center=true&vCenter=true&width=720&lines=Researching+intelligent+systems+at+the+edge+of+human+knowledge;Neural+Networks+%C2%B7+Deep+Learning+%C2%B7+Probabilistic+Models;Gravitational+Waves+%C2%B7+LiDAR+Sensor+Fusion+%C2%B7+Space+Data;Biomarker+Research+%C2%B7+Evidence-Based+AI+%C2%B7+Clinical+Analytics;Analytics+Engineer+%40+Healf+%C2%B7+Wellness+Made+Personal" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=13&duration=3500&pause=1200&color=c9d1d9&center=true&vCenter=true&width=720&lines=Researching+intelligent+systems+at+the+edge+of+human+knowledge;Neural+Networks+%C2%B7+Deep+Learning+%C2%B7+Probabilistic+Models;Gravitational+Waves+%C2%B7+LiDAR+Sensor+Fusion+%C2%B7+Space+Data;Biomarker+Research+%C2%B7+Evidence-Based+AI+%C2%B7+Clinical+Analytics;Analytics+Engineer+%40+Healf+%C2%B7+Wellness+Made+Personal" />
 
 <br>
 
@@ -324,7 +324,7 @@ Blockchain-powered, tamper-proof automated platform with multi-level accountabil
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=300&size=11&duration=4000&pause=2000&color=444c56&center=true&vCenter=true&width=500&lines=from+the+cosmos+to+the+cell+%E2%80%94+data+finds+the+pattern;built+with+curiosity%2C+powered+by+rigour" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=11&duration=4000&pause=2000&color=444c56&center=true&vCenter=true&width=500&lines=from+the+cosmos+to+the+cell+%E2%80%94+data+finds+the+pattern;built+with+curiosity%2C+powered+by+rigour" />
 
 </div>
 
